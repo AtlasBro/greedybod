@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Greedy Snake-1.0";
 const contentToCache = [
-    "Build/GreedySnake.loader.js",
-    "Build/GreedySnake.framework.js",
-    "Build/GreedySnake.data",
-    "Build/GreedySnake.wasm",
+    "Build/GreedySnake(扩大画面缩小间距+21格).loader.js",
+    "Build/GreedySnake(扩大画面缩小间距+21格).framework.js",
+    "Build/GreedySnake(扩大画面缩小间距+21格).data",
+    "Build/GreedySnake(扩大画面缩小间距+21格).wasm",
     "TemplateData/style.css"
 
 ];
